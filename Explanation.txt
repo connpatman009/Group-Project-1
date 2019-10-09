@@ -1,0 +1,1 @@
+I chose the Apache License because it is permissible for most aspects of licensing, which is ok for our program because I am not planning on making money off of it. Also If 
